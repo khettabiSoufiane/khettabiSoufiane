@@ -36,7 +36,7 @@ I love self-learning, therefore I continue to seek knowledge, and that is my dai
 - 👀 I’m interested in Algorithm, Web Development
 - 🌱 I’m currently learning about Web Development
 - 💬 Feel free to ask me about web development
-- 📫 How to reach me: [reski.mulud@gmail.com](mailto:soufiane97khettabi@gmail.com)
+- 📫 How to reach me: [soufiane97khettabi@gmail.com](mailto:soufiane97khettabi@gmail.com)
 
 ## 🙋‍♂️ Social
 
