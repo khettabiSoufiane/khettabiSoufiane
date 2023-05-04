@@ -19,7 +19,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)](https://github.com/reskimulud/reskimulud)&nbsp;
 [![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
 
-## I am [Soufiane KHETTABI](https://reskimulud.my.id)
+## I am [Soufiane KHETTABI](https://www.linkedin.com/in/soufiane-khettabi-3b189a211/)
 
  I'm a Back-end web developer, student at [**almdrasa**](https://almdrasa.com/). 
 ### About Me
