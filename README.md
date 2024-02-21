@@ -21,7 +21,7 @@
 
 ## I am [Soufiane KHETTABI](https://www.linkedin.com/in/soufiane-khettabi-3b189a211/)
 
- I'm a Font-End web developer, student at [**Almdrasa**](https://almdrasa.com/). 
+ I'm a front-end web developer, and student at [**Almdrasa**](https://almdrasa.com/). 
 ### About Me
 
 - <img src="https://media.licdn.com/dms/image/C4D0BAQF44se-WrRIVQ/company-logo_100_100/0/1675694190561?e=1691020800&v=beta&t=jT8bTKB3E7cAuqnF7yYg_WUikJT8GTLrXQj5YBYKlqE" width="25px"> Almdrasa Certified [**Python: Programming Fundamentals 1**](https://almdrasa.com/certificate-verification/12D098415-12703747F-2F3B393/)
@@ -29,7 +29,7 @@
 - <img src="https://media.licdn.com/dms/image/C4D0BAQF44se-WrRIVQ/company-logo_100_100/0/1675694190561?e=1691020800&v=beta&t=jT8bTKB3E7cAuqnF7yYg_WUikJT8GTLrXQj5YBYKlqE" width="25px"> Almdrasa Certified [**Essentials of ChatGPT**](https://almdrasa.com/certificate-verification/1330DBA9D-1330DBA9A-2F3B393/)
 - <img src="https://scontent.frba4-3.fna.fbcdn.net/v/t39.30808-6/301881560_549082637018048_4833183130590085586_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=S0EsLLafPREAX-krb09&_nc_zt=23&_nc_ht=scontent.frba4-3.fna&oh=00_AfC05XKZJVHPQ30BPgI2LiMOMmHvx5rGmhvYtUJUPmCksw&oe=64578008" width="25px" /> **CNC (Computer Numerical Control) technician is responsible for programming, setting up, and operating CNC machines** Class of 2022 - **SPECIALIZED INSTITUTE OF AERONAUTICAL AND AIRPORT LOGISTICS PROFESSIONS** Curriculum
 
-I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
+I am a person who likes new things and feels challenged about them. I enjoy exploring and seeking knowledge in the world of computers, gadgets, and programming, that's the reason I chose to study Informatics Engineering.
 
 I love self-learning, therefore I continue to seek knowledge, and that is my daily activity.
 
