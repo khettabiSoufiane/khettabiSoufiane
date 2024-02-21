@@ -21,7 +21,7 @@
 
 ## I am [Soufiane KHETTABI](https://www.linkedin.com/in/soufiane-khettabi-3b189a211/)
 
- I'm a Back-end web developer, student at [**almdrasa**](https://almdrasa.com/). 
+ I'm a Font-End web developer, student at [**Almdrasa**](https://almdrasa.com/). 
 ### About Me
 
 - <img src="https://media.licdn.com/dms/image/C4D0BAQF44se-WrRIVQ/company-logo_100_100/0/1675694190561?e=1691020800&v=beta&t=jT8bTKB3E7cAuqnF7yYg_WUikJT8GTLrXQj5YBYKlqE" width="25px"> Almdrasa Certified [**Python: Programming Fundamentals 1**](https://almdrasa.com/certificate-verification/12D098415-12703747F-2F3B393/)
